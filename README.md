@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://heyshashank.netlify.app/](https://heyshashank.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://heyshashank.netlify.app/](https://codewithshashank.netlify.app/)
 
 - 💬 Ask me about **Java, C/C++, Web Development and Android.**
 
