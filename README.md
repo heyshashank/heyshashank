@@ -1,4 +1,6 @@
-[![MasterHead]https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png]
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Shashank Shekhar Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
